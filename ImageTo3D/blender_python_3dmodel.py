@@ -7,7 +7,7 @@ from stl import mesh
 grey_img = Image.open('sun3.jpg').convert('L')
 
 max_size = (500, 500)
-max_height = 40
+max_height = 10 #Change this to a value you prefer
 min_height = 0
 
 #height=0 for minPix
